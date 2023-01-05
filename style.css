@@ -1,0 +1,162 @@
+
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+ 
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bolder;
+  font-family: 'Montserrat-Black', sans-serif;
+}
+.introduction{
+    margin: 43px 0px;
+}
+.navbar{
+    padding-bottom: 0 4.5rem;
+    padding-left: 0px;
+}
+
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.download-button{
+    margin: 5% 3% 5% 0%;
+    
+}
+.icong{
+height: 5px;
+}
+img.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  margin: 55px 10px;
+  position: absolute;
+  right: 30%;
+ 
+  
+  
+ 
+}
+/* features */
+#features{
+  padding: 7% 15%;
+ position: relative;
+ z-index: 1;
+ background-color: #fff;
+
+  
+}
+.feature-box{
+  text-align: center;
+  padding: 3%;
+
+}
+h3{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+/* testimonials */
+
+#testimonials{
+  background-color:#ef8172;
+  
+  text-align: center;
+  color: #fff;
+
+}
+h2{
+  font-family:"Montserrat-Black";
+  font-size:3.5rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+/* press */
+.press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* pricing */
+.h1pricing{
+  font-family:  'Montserrat-light';
+  color: black;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 90px;
+}
+.ppricing{
+
+ text-align: center;
+}
+/* .pricing-column{
+  padding: 3% 9%;
+} */
+.card-header{
+  text-align: center;
+}
+.card{
+  margin: 30px 70px;
+  padding: 3% 2%;
+}
+
+/* last section */
+.last{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+  padding-top: 75px;
+}
+/* footer */
+.social-icons{
+  text-align: center;
+  align-items: center;
+  margin: 7%;
+}
+.fab{
+  margin: 0px 10px;
+  padding-bottom: 30px;
+}
